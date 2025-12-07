@@ -1,0 +1,10 @@
+The speech synthesis system should sound natural and intelligible.
+The model’s performance is important when operating in real time.
+Neural network methods make it possible to convey complex intonation and emotions.
+Today we are comparing several modern speech synthesis models.
+The higher the quality of the data, the better the model’s training results.
+Some models use transformers, while others rely on diffusion processes.
+In this laboratory work, we analyze the trade-off between quality and speed.
+Speech synthesis is widely used in voice assistants and audiobooks.
+Multilingual models allow working with several languages at once.
+The quality of synthesis can be evaluated both subjectively and using formal metrics.
